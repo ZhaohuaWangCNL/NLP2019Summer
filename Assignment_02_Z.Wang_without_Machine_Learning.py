@@ -6,7 +6,7 @@ import urllib.error
 import time
 import socket
 import googlemaps
-gmaps = googlemaps.Client(key = 'AIzaSyDzjzVn_WCGPY0VUuAY1KNZV0bLCUw6ono')
+gmaps = googlemaps.Client(key = '....') # my key hidden for this public file on GitHub
 # -*- coding: utf-8 -*-
 
 socket.setdefaulttimeout(20)
